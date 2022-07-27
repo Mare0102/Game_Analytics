@@ -1,7 +1,7 @@
 # Game Analytics
 Using SQL to calculate basic game metrics
 
-# Data Information
+## Data Information
 | Column | Description |
 | -- | -- |
 | ts | Timestamp |
