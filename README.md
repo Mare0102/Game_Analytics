@@ -3,7 +3,7 @@ Using SQL to calculate basic game metrics
 
 # Data Information
 | Column | Description |
-| == | == |
+| -- | -- |
 | ts | Timestamp |
 | user_id | User Id |
 
@@ -12,7 +12,7 @@ This dataset contains daily user's log in data for 2 months.
 
 ## Metrics
 | Metrics | Definition | Descriptions |
-| == | == | == |
+| -- | -- | -- |
 | Activation | New Users | Tell you a lot about your marketing efforts, conversion funnels, UX design and more |
 | Churn | Users that stop playing | We can figure out if changes need to be made, such as improving UX, optimizing feature requirements, etc |
 | Reengage | Users that comes back after churn | Returning users tend to be more engaged and convert at higher rates |
